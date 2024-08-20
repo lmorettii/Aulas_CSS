@@ -1,0 +1,27 @@
+/* Alterando cor por nome */
+.nome{
+    color: orange;
+    background-color: green;
+
+}
+/* Aterando cor por hexadecimal */
+.Hexadecimal{
+    color:#ed2424;
+    background-color:#8175d9;
+}
+.RGBA{
+    color: rgb(240, 24, 208);
+    background-color: plum;
+}
+/* Alterando a segunda página */
+.titulo-Background{
+    color: aliceblue;
+    background-color: rgb(200, 163, 240);
+    text-align: center;
+}
+
+.div-background{
+    background-image: url(neve.webp);
+    height: 400px;
+    width: 900px;
+}
