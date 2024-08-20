@@ -1,0 +1,24 @@
+/* Adicionando CCS */
+/* Com seletor 'TAG' */
+h1{
+    color: gold;
+    font-size: 30px;
+}
+p{
+    font-weight: bold;
+
+}
+/* Adicionando CSS */
+/* Com seletor 'id' */
+/* Id NÃO pode ser compartilhado */
+#p2{
+    color: brown;
+    font-weight: normal;
+
+}
+/* Adicionando CSS */
+/* Com seletor 'class' */
+.p-texto{
+    color: pink;
+    font-weight: normal;
+}
