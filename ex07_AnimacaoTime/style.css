@@ -1,0 +1,13 @@
+from {left:0;}
+    to {left: 500px;}
+
+
+.caixas{
+    width:100px;
+    height: 100px;
+    background-color: blue;
+    position: relative;
+    animation-name: animacao;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
