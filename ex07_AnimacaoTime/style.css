@@ -7,7 +7,7 @@
     width: 100px;
     height: 100px;
     background-color: rgb(75, 208, 104);
-    /* para mover o item na tela */
+  
     position: relative;
     animation-name: animacao;
     animation-duration: 5s;
