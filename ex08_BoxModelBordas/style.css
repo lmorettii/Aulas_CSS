@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+}
+
+.boxmodel1 {
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    padding: 30px 30px;
+    border: 5px dotted red;
+    border-left: 10px solid black;
+    border-right-style: double;
+    border-radius: 50%;
+     margin: 50px 50px;
+
+}
+
+.boxmodel2{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(234, 86, 41);
+    padding: 30px 30px;
+    border: 5px dotted rgb(206, 237, 30);
+    border-left: 10px solid black;
+    border-right-style: double;
+    border-radius: 50%;
+     margin: 50px 50px;
+
+}
